@@ -1,6 +1,3 @@
-[![Rust](../../workflows/Rust/badge.svg)](../../actions?query=workflow%3ARust+branch%3Amain) [![Docker](../../workflows/Docker/badge.svg)](../../actions?query=workflow%3ADocker+branch%3Amain)
-# Automata
-
 ## Build
 
 On Ubuntu/Debian (or similar distributions on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)), install the following packages:
